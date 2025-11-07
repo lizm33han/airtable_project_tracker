@@ -1,7 +1,7 @@
 # airtable_project_tracker
 🔗 [View the live Airtable base (read-only)]https://airtable.com/app2FaT2iXXetmx8n/shrd0PEKubTmNTzzi
 
-# Airtable Project Tracker with Automated Status and Activity Score
+# Airtable Project Tracker with Automated Status and Activity Score, Automations
 
 This Airtable base was designed to help manage team reporting and management for each month. It includes calculated fields that assign an **Activity Score** based on meeting attendance and project submissions. Minimum score is assigned when members attend at least 2 out of 3 total meetings. Excused absences count. Members can also attain a minimum score if working asychronously, in which they submit a project while in contact with leaders. Minimum score = 50. A **Current Status** field automatically categorizes each member as "✅ Active (Met minimum)" or “⚠️ Inactive (Below minimum)” for quick visual monitoring.
 
